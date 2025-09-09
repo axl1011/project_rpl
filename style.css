@@ -63,7 +63,7 @@ nav ul li a.active {
 }
 .header {
   position: relative;
-  background-image: url("../vs_code_rpl/src/images.jpeg"); /* Gambar sekolah */
+  background-image: url("src/images.jpeg"); /* Gambar sekolah */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
